@@ -1,6 +1,8 @@
 # Nikhil-coder.github.io
 This is my first GitHub website 
-**About  Nikhil bhardwaj . Coding Journey**
+
+**About  Nikhil bhardwaj's Coding Journey**
+
 Hi all, 
 I have successfully completed the "Excel for Beginners" course offered by Great Learning Academy. 
  #GreatLearningAcademy #greatlearning #glacertificate
