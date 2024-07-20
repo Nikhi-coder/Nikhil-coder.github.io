@@ -9,6 +9,7 @@ I have successfully completed the "Excel for Beginners" course offered by Great 
  
 *Here is my excel certificate*
 
+https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5042724/original/Nikhil_bhardwaj20240720-73-fajh7h.jpg
 
 _My experience in Excel through 
 this online course is very nice 
