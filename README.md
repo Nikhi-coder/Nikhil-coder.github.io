@@ -20,7 +20,8 @@ we all know Excel is a spreadsheet program from Microsoft and a component of its
 
 *Here is some information about it*
 
-*There arefunctions every Excel user should know.*
+*There are 
+functions every Excel user should know.*
 
 *1) The SUM Function*
 Excel’s SUM function adds values. In the screenshot below, I entered the function =SUM(B4:B7). This will add up all of the numbers in cells B4 through B7.
